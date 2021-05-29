@@ -1,0 +1,26 @@
+{
+  "id": "7f809b83-5c63-4ac3-9cfb-c221989bb294",
+  "name": "DocumentManagement",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DocumentManagement.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
